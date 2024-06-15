@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.fitfinessee.AnalyzePage.AnalyzeFragment;
 import com.example.fitfinessee.ArticlePage.ArticleFragment;
+import com.example.fitfinessee.ProfilePage.ProfileFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 

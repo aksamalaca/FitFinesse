@@ -25,4 +25,7 @@
     <color name="rose">#F5DAD2</color>
     <color name="green8">#BACD92</color>
     <color name="brokenwhite">#FAFAFA</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#679DBB</color>
 </resources>

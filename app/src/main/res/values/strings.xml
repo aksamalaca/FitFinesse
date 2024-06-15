@@ -14,4 +14,10 @@
     <string name="click_to_login">Click_to_login</string>
     <string name="click_to_register">Click to Register</string>
     <string name="logout">Logout</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Apakah Anda yakin ingin menghapus tugas ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Apakah Anda yakin ingin menandai tugas ini sebagai selesai.</string>
 </resources>
